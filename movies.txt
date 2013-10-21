@@ -7,10 +7,6 @@ Braveheart
 Gravity
 Inception
 Memento
-<<<<<<< HEAD
-The Git Ninja
-  
-=======
 Pirates of Silicone Valley
-  
->>>>>>> 0e4353557818d3322395652ebb1a47f0b0099cf2
+Conflictadu thetta bitch!  
+Pulp Fiction
